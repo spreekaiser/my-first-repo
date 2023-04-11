@@ -13,3 +13,7 @@ There is a webpage to learn Markdowns
 
 ### Link to a page
 [Google] (www.google.de)
+
+### checkbox
+[ ] Feiern
+[x] Arbeiten
