@@ -11,3 +11,5 @@ There is a webpage to learn Markdowns
 ### Unordered List
 - other stuff
 
+### Link to a page
+[Google] (www.google.de)
