@@ -15,9 +15,9 @@ There is a webpage to learn Markdowns
 [Google] (www.google.de)
 
 ### checkbox
-[ ] Feiern
+[ ] Feiern \
 [x] Arbeiten
 
 ### Textstyle
-*italic*
+*italic* \
 **bold**
