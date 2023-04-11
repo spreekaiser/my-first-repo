@@ -17,3 +17,7 @@ There is a webpage to learn Markdowns
 ### checkbox
 [ ] Feiern
 [x] Arbeiten
+
+### Textstyle
+*italic*
+**bold**
